@@ -1,0 +1,32 @@
+{
+    "name": "singularity",
+    "displayName": "Singularity",
+    "description": "A point of infinite gravity and space-time warping...",
+    "version": "0.0.1",
+    "publisher": "EventHorizon",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FeynmanW6/Singularity-VS-Code-extension"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "singularity",
+        "blue red green"
+    ],
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Singularity",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Singularity-color-theme.json"
+            }
+        ]
+    }
+}
