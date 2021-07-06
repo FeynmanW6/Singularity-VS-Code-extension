@@ -1,1 +1,0 @@
-# Singularity-VS-Code-extension
